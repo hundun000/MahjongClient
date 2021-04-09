@@ -1,0 +1,3 @@
+[submodule "core/mahjong-core"]
+	path = core/mahjong-core
+	url = https://github.com/hundun000/MahjongCore.git

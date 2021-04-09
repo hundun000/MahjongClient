@@ -1,0 +1,9 @@
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+sourceSets.main.java.srcDirs = [ 
+"src/",
+"mahjong-core/src",
+"mahjong-core/mahjong4j/src/main/java"
+]
+
+eclipse.project.name = appName + "-core"
